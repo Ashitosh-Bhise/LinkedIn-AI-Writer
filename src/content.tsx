@@ -1,4 +1,3 @@
-
 import cssText from "data-text:~style.css";
 import type { PlasmoCSConfig } from "plasmo";
 import React, { useEffect, useState } from "react";
