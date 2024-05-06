@@ -1,3 +1,4 @@
+
 {
   "extends": "plasmo/templates/tsconfig.base",
   "exclude": [
