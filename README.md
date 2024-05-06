@@ -3,6 +3,8 @@
 
 This React project is a Plasmo extension (chrome extension) tailored for LinkedIn, streamlining the process of generating AI replies by seamlessly inserting prompts. It aims to enhance user efficiency by facilitating the creation of more effective responses.
 
+Demo video - https://drive.google.com/file/d/1WmO4IuRDuQq2BTqjD3g8Yh1KTRM8I99f/view?usp=drive_link
+
 
 ## Installation
 
@@ -20,6 +22,6 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
-Demo video - https://drive.google.com/file/d/1WmO4IuRDuQq2BTqjD3g8Yh1KTRM8I99f/view?usp=drive_link
+
 Project made by Ashitosh Bhise
 
