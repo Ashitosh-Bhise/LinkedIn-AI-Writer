@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import { Box, Modal, Typography } from "@mui/material";
 import VectorIcon from 'assets/Vector.svg';
