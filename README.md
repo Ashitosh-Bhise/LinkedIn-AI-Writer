@@ -1,3 +1,4 @@
+
 # LinkedIn AI Reply GPT
 
 This React project is a Plasmo extension (chrome extension) tailored for LinkedIn, streamlining the process of generating AI replies by seamlessly inserting prompts. It aims to enhance user efficiency by facilitating the creation of more effective responses.
