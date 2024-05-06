@@ -20,5 +20,6 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
-https://github.com/ashitosh-ctrl/LinkedIn-AI-Writer-Extension/assets/
+Demo video - https://drive.google.com/file/d/1WmO4IuRDuQq2BTqjD3g8Yh1KTRM8I99f/view?usp=drive_link
+Project made by Ashitosh Bhise
 
